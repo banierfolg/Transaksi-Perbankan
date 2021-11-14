@@ -1,0 +1,39 @@
+{
+  "name": "TRANSAKSI PERBANKAN",
+  "short_name": "PERBANKAN",
+  "scope": "https://transaksiperbankan.blogspot.com/",
+  "start_url": "https://transaksiperbankan.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#008080",
+  "description": "Blog seputar transaksi perbankan. Seperti transfer uang, pembayaran, daftar, ambil uang, pendaftaran dan yang lainnya",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjRmSZR5dwm4Gt5L4wRVemk_WDqIJo8WiujngcUjlxzi4-U1GdMbMwADyn9o4HgZOvdbTMolCiGNo5fXe99pPrZ10J7IJIi4su7LDnrvK6dEt51ASU7J6vjtGw7cIdSIcU3PdbnYxNpgZitT4lQr8xMxCrkQLef5xmkjBUkXLuDI1OWBmcJaQXktL73",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjRmSZR5dwm4Gt5L4wRVemk_WDqIJo8WiujngcUjlxzi4-U1GdMbMwADyn9o4HgZOvdbTMolCiGNo5fXe99pPrZ10J7IJIi4su7LDnrvK6dEt51ASU7J6vjtGw7cIdSIcU3PdbnYxNpgZitT4lQr8xMxCrkQLef5xmkjBUkXLuDI1OWBmcJaQXktL73",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjRmSZR5dwm4Gt5L4wRVemk_WDqIJo8WiujngcUjlxzi4-U1GdMbMwADyn9o4HgZOvdbTMolCiGNo5fXe99pPrZ10J7IJIi4su7LDnrvK6dEt51ASU7J6vjtGw7cIdSIcU3PdbnYxNpgZitT4lQr8xMxCrkQLef5xmkjBUkXLuDI1OWBmcJaQXktL73",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjRmSZR5dwm4Gt5L4wRVemk_WDqIJo8WiujngcUjlxzi4-U1GdMbMwADyn9o4HgZOvdbTMolCiGNo5fXe99pPrZ10J7IJIi4su7LDnrvK6dEt51ASU7J6vjtGw7cIdSIcU3PdbnYxNpgZitT4lQr8xMxCrkQLef5xmkjBUkXLuDI1OWBmcJaQXktL73",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjRmSZR5dwm4Gt5L4wRVemk_WDqIJo8WiujngcUjlxzi4-U1GdMbMwADyn9o4HgZOvdbTMolCiGNo5fXe99pPrZ10J7IJIi4su7LDnrvK6dEt51ASU7J6vjtGw7cIdSIcU3PdbnYxNpgZitT4lQr8xMxCrkQLef5xmkjBUkXLuDI1OWBmcJaQXktL73",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjRmSZR5dwm4Gt5L4wRVemk_WDqIJo8WiujngcUjlxzi4-U1GdMbMwADyn9o4HgZOvdbTMolCiGNo5fXe99pPrZ10J7IJIi4su7LDnrvK6dEt51ASU7J6vjtGw7cIdSIcU3PdbnYxNpgZitT4lQr8xMxCrkQLef5xmkjBUkXLuDI1OWBmcJaQXktL73",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjRmSZR5dwm4Gt5L4wRVemk_WDqIJo8WiujngcUjlxzi4-U1GdMbMwADyn9o4HgZOvdbTMolCiGNo5fXe99pPrZ10J7IJIi4su7LDnrvK6dEt51ASU7J6vjtGw7cIdSIcU3PdbnYxNpgZitT4lQr8xMxCrkQLef5xmkjBUkXLuDI1OWBmcJaQXktL73",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
